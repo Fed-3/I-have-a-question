@@ -1,0 +1,8 @@
+Hi xiaopeng12138,
+
+I wanted to ask you a quick question: i saw that you uploaded a config file for the kobra go on the klipper github, 
+and I wanted to ask you how you were able to do that.
+
+In particular, how did you manage to find the pin diagram if the board used by the printer?
+
+Thanks a lot in advace for your time! :-)
